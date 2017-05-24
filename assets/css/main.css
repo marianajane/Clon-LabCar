@@ -1,0 +1,139 @@
+
+body {
+	font-family: 'Khula', sans-serif;
+}
+
+.bar-container {
+	padding: 2%;
+}
+
+.taxi-cab {
+	background-image: url(../img/taxiG.jpg);
+	width: 100%
+	height:50%;
+}
+
+.panel-config {
+	margin-top: 10%;
+	color: white;
+	background-color: #F7B617;
+}
+
+.color-sec2 {
+	background-color: #F7B617;
+	padding: 2% 2% 2% 0;
+	color: white;
+}
+
+.border-content {
+	padding: 2%;
+	border-style: solid;
+	border-width: 1px;
+	border-color: white;
+	margin-left: 0;
+}
+
+.parrafos {
+	font-size: 1.5vw;
+	text-align: justify;
+}
+
+.driver {
+	background-image: url(../img/conduce.jpg);
+	width: 100%
+	height:50%;
+}
+
+.top-space {
+	margin: 15% 0 5%;
+}
+
+.top-space2{
+	margin: 5% 0 1%;
+}
+
+.jumbotron-lab1 {
+	background-color: #F7B617;
+	color: white;
+	padding: 7% 0 7% 0;
+}
+
+.jumbotron-lab2 {
+	background-color: rgba(0,0,0,.5);
+	color: white;
+}
+
+.btn-lab {
+	background-color: #F7B617;
+	color: white;
+}
+
+.btn-lab1 {
+	color: black;
+}
+
+.transparent {
+	background-color: transparent;
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+}
+
+.map{
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+	border-width: 1px;
+	padding: 2%;
+	width: 515px;
+}
+
+.color-sec3 {
+	background-color: #2B2B2B;
+	color: white;
+	padding-bottom: 5%;
+}
+
+.lista {
+	list-style: none;
+}
+
+.lista>li>a {
+	color: white;
+	line-height: 2.1;
+}
+
+.modal:target {
+    display: block;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.centrar {
+	text-align: center;
+	color: white;
+}
+
+.container-modal {
+	margin-top: 5%;
+}
+
+.black {
+	color: black;
+}
+
+.align-left {
+	text-align: left;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.no-padding {
+	padding-right: 0; 
+}
